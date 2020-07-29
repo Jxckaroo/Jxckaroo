@@ -1,16 +1,18 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Jxckaroo/Jxckaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! :wave:
 
-Here are some ideas to get you started:
+I am Jack, a **backend developer** primarily focused on **PHP** & **C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Framework Interests
+
+- PHP
+	 - Laravel
+	 - CodeIgniter
+	 - ZenCart
+	 - Symfony
+	 - CakePHP
+
+- C# (I'm new, be nice :joy:)
+	- .NET Core
+	 - EntityFramework
