@@ -17,6 +17,6 @@ You can checkout most of my updated work on my website [Javeloper](https://javel
 	 - Symfony
 	 - CakePHP
 
-- C# (I'm new, be nice :joy:)
+- C#
 	- .NET Core
 	 - EntityFramework
