@@ -2,7 +2,7 @@
 
 Hi! :wave:
 
-I'm a **backend developer** primarily focused on **PHP**, more specifically, **Laravel**.
+I'm a **backend developer** primarily focused on **PHP** / **Laravel** and **Go**.
 
 Checkout my website [Javeloper](https://javeloper.co.uk) if you want.
 
